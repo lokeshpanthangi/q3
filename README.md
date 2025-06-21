@@ -58,3 +58,7 @@ print(f"Prediction: '{prediction}' with {confidence:.2%} confidence.")
 *   `fruit.csv`: The dataset.
 *   `model_weights.csv`: The saved weights of the trained model.
 *   `main.py`: Placeholder file. 
+
+
+
+THANK YOU
